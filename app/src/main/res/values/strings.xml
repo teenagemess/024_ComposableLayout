@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeActivity</string>
+    <string name="greeting">Helo</string>
+    <string name="name">World</string>
+</resources>
